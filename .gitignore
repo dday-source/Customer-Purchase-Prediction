@@ -1,0 +1,16 @@
+# Python virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Project-specific output folders
+output_*/
+output_latest/
+
+# Downloaded data folder
+kaggle_dataset/
